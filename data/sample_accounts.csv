@@ -1,0 +1,14 @@
+account_id,owner_state,asset_type,balance_usd,last_owner_activity
+A-1001,TX,cash,1250.00,2024-02-10
+A-1002,FL,virtual_currency,430.00,2020-02-01
+A-1003,NY,virtual_currency,2200.00,2021-03-10
+A-1004,,cash,75.00,2021-06-01
+A-1005,CA,virtual_currency,980.00,2024-03-20
+A-1006,DE,cash,40.00,2022-03-01
+A-1007,NY,cash,3100.00,2023-09-15
+A-1008,AZ,cash,610.00,2021-09-12
+A-1009,TX,virtual_currency,180.00,2024-01-05
+A-1010,,virtual_currency,5400.00,2021-05-18
+A-1011,FL,cash,95.00,2024-07-04
+A-1012,CA,cash,2600.00,2024-08-01
+A-1013,TX,cash,640.00,2022-12-01
